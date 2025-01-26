@@ -20,3 +20,8 @@
   },
   "homepage": "https://github.com/ghada13/Mypipeline#readme"
 }
+"scripts": {
+    "test": "jest",
+    "build": "echo \"Building the project...\""
+}
+
